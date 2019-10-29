@@ -1,2 +1,2 @@
 Hello
-this is the 24 hour hackathon project in hackoberfest
+this is the a part of 24 hour hackathon project final is in other repository
